@@ -1,3 +1,9 @@
+# 👋 Hi there! I'm Vineeth Krishna Puchalapalli
+
+I'm a **Software Engineer** with 3+ years of experience designing and building scalable distributed systems, high-throughput data pipelines, and automated CI/CD infrastructures. I specialize in delivering production-ready microservices and cloud-native solutions using modern tools and best practices.
+
+---
+
 ## 🛠 Technical Skills
 
 ### • Languages  
@@ -53,6 +59,8 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-6e5494?style=for-the-badge)
 &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+&nbsp;
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -61,3 +69,14 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/139ee13a-095d-4f5b-9b60-7ee3e661047e/public_url)
 &nbsp;
 [![AWS Developer](https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5ae32f1-68b3-4e6a-91f0-05efeeb055cd/public_url)
+&nbsp;
+[![Go HackerRank](https://img.shields.io/badge/Go_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/008af406793b)
+&nbsp;
+![Software Engineer by HackerRank](https://img.shields.io/badge/Software_Engineer_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 [vineethkrishnapuchalapalli@gmail.com](mailto:vineethkrishnapuchalapalli@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kpuchalapalli/)
