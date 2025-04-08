@@ -68,7 +68,7 @@ I'm a **Software Engineer** with 3+ years of experience designing and building s
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/139ee13a-095d-4f5b-9b60-7ee3e661047e/public_url)
 &nbsp;
-[![AWS Developer](https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5ae32f1-68b3-4e6a-91f0-05efeeb055cd/public_url)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5ae32f1-68b3-4e6a-91f0-05efeeb055cd/public_url)
 &nbsp;
 [![Go HackerRank](https://img.shields.io/badge/Go_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/411f4018431b)
 &nbsp;
@@ -76,7 +76,11 @@ I'm a **Software Engineer** with 3+ years of experience designing and building s
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect & Code Together
 
-- 📧 [vineethkrishnapuchalapalli@gmail.com](mailto:vineethkrishnapuchalapalli@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kpuchalapalli/)
+[![Gmail](https://img.shields.io/badge/Gmail-vineethkrishnapuchalapalli@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineethkrishnapuchalapalli@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/puchalapalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puchalapalli)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-/puchalapalli-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/puchalapalli)
+&nbsp;
