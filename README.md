@@ -70,9 +70,9 @@ I'm a **Software Engineer** with 3+ years of experience designing and building s
 &nbsp;
 [![AWS Developer](https://img.shields.io/badge/AWS_Certified_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5ae32f1-68b3-4e6a-91f0-05efeeb055cd/public_url)
 &nbsp;
-[![Go HackerRank](https://img.shields.io/badge/Go_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/008af406793b)
+[![Go HackerRank](https://img.shields.io/badge/Go_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/411f4018431b)
 &nbsp;
-![Software Engineer by HackerRank](https://img.shields.io/badge/Software_Engineer_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+[![Software Engineer by HackerRank](https://img.shields.io/badge/Software_Engineer_by_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/008af406793b)
 
 ---
 
